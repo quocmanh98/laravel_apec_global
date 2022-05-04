@@ -1,0 +1,14 @@
+APP_NAME=Laravel
+APP_ENV
+APP_ENV=production
+APP_DEBUG=false
+APP_URL=http://localhost/admin/php-scripts/file/
+ASSET_URL=http://localhost/admin/php-scripts/file/
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=admin
+DB_USERNAME=root
+DB_PASSWORD=
+SESSION_DRIVER=database
+MAIL_MAILER=log

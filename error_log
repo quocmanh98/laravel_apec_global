@@ -1,0 +1,13 @@
+[25-Apr-2022 09:15:10] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_CONSTANT_ENCAPSED_STRING or '(' in /home/eg2ue6pxz7vt/admin.apecglobal.vn/index.php on line 3
+[25-Apr-2022 09:15:12] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_CONSTANT_ENCAPSED_STRING or '(' in /home/eg2ue6pxz7vt/admin.apecglobal.vn/index.php on line 3
+[25-Apr-2022 02:15:22 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.0.33. in /home/eg2ue6pxz7vt/admin.apecglobal.vn/application/vendor/composer/platform_check.php on line 24
+[25-Apr-2022 02:15:23 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.0.33. in /home/eg2ue6pxz7vt/admin.apecglobal.vn/application/vendor/composer/platform_check.php on line 24
+[25-Apr-2022 07:53:27 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/eg2ue6pxz7vt/admin.apecglobal.vn/application/app/Http/Controllers/UserController.php on line 483
+[26-Apr-2022 03:47:33 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/eg2ue6pxz7vt/admin.apecglobal.vn/application/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[26-Apr-2022 03:47:56 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/eg2ue6pxz7vt/admin.apecglobal.vn/application/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[26-Apr-2022 03:48:30 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/eg2ue6pxz7vt/admin.apecglobal.vn/application/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[26-Apr-2022 03:50:31 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/eg2ue6pxz7vt/admin.apecglobal.vn/application/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[26-Apr-2022 03:52:44 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/eg2ue6pxz7vt/admin.apecglobal.vn/application/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[26-Apr-2022 03:56:52 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/eg2ue6pxz7vt/admin.apecglobal.vn/application/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[26-Apr-2022 04:01:13 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/eg2ue6pxz7vt/admin.apecglobal.vn/application/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
+[26-Apr-2022 07:41:20 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/eg2ue6pxz7vt/admin.apecglobal.vn/application/vendor/symfony/polyfill-mbstring/Mbstring.php on line 635
